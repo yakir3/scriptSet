@@ -1,0 +1,15 @@
+# Python:
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+dist
+build
+__pycache__/
+
+/logs/
+/tmp/
+/bin/*.txt
+
+**/logs/
+**/tmp/
